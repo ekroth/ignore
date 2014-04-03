@@ -54,3 +54,4 @@ TODO
 ----
 
 List all available gitignores.
+Exit codes.
