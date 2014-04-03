@@ -29,6 +29,11 @@ Run in silent mode, this will output the gitignore without any additional commen
 ignore -s Java
 ```
 
+When creating a new repository, Haskell and TeX.
+```
+ignore Haskell TeX > .gitignore
+```
+
 TODO
 ----
 
