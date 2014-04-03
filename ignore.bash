@@ -7,7 +7,7 @@ function usage() {
     echo "Output gitignore for a LANG(s) from Github."
     echo ""
     echo -e "  -v,\t\t\t verbose, output extra information"
-    echo -e "  -s,\t\t\t silent, only output gitignore(s) (default: off)"
+    echo -e "  -s,\t\t\t silent, only output gitignore(s)"
     echo -e "  -h,\t\t\t this help"
     echo ""
     echo "Examples:"
