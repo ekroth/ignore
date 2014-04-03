@@ -3,6 +3,22 @@ ignore
 
 download gitignore from github
 
+Help
+----
+```
+Usage: ignore [OPTION]... [LANG]...
+Output gitignore for a LANG(s) from Github.
+
+  -v,			 verbose, output extra information
+  -s,			 silent, only output gitignore(s)
+  -h,			 this help
+
+Examples:
+  ignore Haskell		         Output Haskell gitignore
+  ignore -v Haskell Global/Emacs Output Haskell and Emacs gitignore with verbose
+  ignore -s Scala		         Scala gitignore without any extra information
+```
+
 Examples
 --------
 Download a gitignore. 
