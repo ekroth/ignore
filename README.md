@@ -3,8 +3,8 @@ ignore
 
 download gitignore from github
 
-Example
-=======
+Examples
+--------
 Download a gitignore. 
 
 ```
@@ -30,6 +30,6 @@ ignore -s Java
 ```
 
 TODO
-======
+----
 
 List all available gitignores.
